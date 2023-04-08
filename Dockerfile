@@ -1,4 +1,4 @@
-FROM dockerdemo
+FROM dockerdemo:0.3
 
 COPY . /src
 
